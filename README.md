@@ -1,8 +1,10 @@
 # sprint-2
 
-Яндекс.Практикум. Проектная работа № 2 (Верстка. HTML, CSS)
+Яндекс.Практикум. Проектная работа по вёрстке.
 
 Доступна по ссылке [на GitHub Pages](https://anton-zm.github.io/sprint-2/)
+
+![](./images/preview_sprint2.jpg)
 
 ## Описание
 
